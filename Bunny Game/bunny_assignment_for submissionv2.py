@@ -1,17 +1,17 @@
 """
 
-!!! Need to take two blocks with low level functions out of game_course
-!!! Need to find solutions for the variables outside the functions
+The game was given as an assignment in our DS course towards the end of the python section.
+A reference to a website with the game code was provided, however this code was written in very bad python.
+So the work was writing the code from scratch, putting what we learned into practice.
 
-
-
-To write the game in 'good' pyhton, and put what we learned into practice I did the following:
+To write the game in 'good' pyhton, I did the following:
 - Using modularity - arranging the code in functions and connecting between them
-- Following DRY rules
-- Detailing the game constants at the beginning, so these could be changed per need easily
+- Following DRY  (don't repeat yourself)
+- Detailing the game constants and variables, so these could be used per need easily
 - Simplifying the code
 - Adding comments
-- Many other changes (for instance, including the arrow and badger's rectangles within the lists)
+- Many other changes (for instance, including the arrow and badger's rectangles within the lists, adding a dictionary
+  for the arrows etc.)
 
 I separated the program into sections:
 - Game initiation and downloads
