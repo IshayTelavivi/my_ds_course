@@ -2,7 +2,7 @@
 ---------
 This is my first github repository! I made it following the tutorial video [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?time_continue=1702&v=SWYqp7iY_Tc).
 
-My DS course has started on Dec 12 2017, and this repository is will store my exercises and other related material.
+My DS course has started on Dec 12 2017, and this repository stores my exercises and other related material.
 Our first topic of the course was Python programming. The individual files were exercises we did on the first month of the course.
 Later on we had the following 3 more extensive exercises to complete:
 1. RSP Game (Rock Scissors Paper) - we were given detailed instructions about what the program should do and what the expected functionality should be. In the folder there is a PDF with the instructions and a jupyter notebook with the code.
