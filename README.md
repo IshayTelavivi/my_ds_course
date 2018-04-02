@@ -1,4 +1,4 @@
-si### my_ds_course
+### my_ds_course
 ---------
 This is my first github repository! I made it following the tutorial video [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?time_continue=1702&v=SWYqp7iY_Tc).
 
