@@ -1,0 +1,934 @@
+Manasseh and Joseph became friends.
+Naphtali and Judah became friends.
+Asher and Naphtali became friends.
+Joseph and Dan became friends.
+Gad and Issachar became friends.
+Ephraim and Asher became friends.
+Judah and Joseph became friends.
+Issachar and Judah became friends.
+Ephraim and Benjamin became friends.
+Manasseh and Ephraim became friends.
+Dan and Joseph cancelled their friendship.
+Ephraim and Zebulun became friends.
+Gad and Simeon became friends.
+Gad and Issachar cancelled their friendship.
+Ephraim and Benjamin cancelled their friendship.
+Gad and Ephraim became friends.
+Judah and Manasseh became friends.
+Asher and Reuben became friends.
+Joseph and Naphtali became friends.
+Manasseh and Zebulun became friends.
+Reuben and Gad became friends.
+Ephraim and Judah became friends.
+Dan and Ephraim became friends.
+Levi and Asher became friends.
+Judah and Benjamin became friends.
+Manasseh and Gad became friends.
+Simeon and Dan became friends.
+Asher and Benjamin became friends.
+Simeon and Asher became friends.
+Zebulun and Asher became friends.
+Manasseh and Asher became friends.
+Benjamin and Issachar became friends.
+Issachar and Gad became friends.
+Issachar and Naphtali became friends.
+Issachar and Dan became friends.
+Issachar and Zebulun became friends.
+Gad and Simeon cancelled their friendship.
+Joseph and Ephraim became friends.
+Ephraim and Manasseh cancelled their friendship.
+Asher and Naphtali cancelled their friendship.
+Zebulun and Judah became friends.
+Ephraim and Issachar became friends.
+Benjamin and Issachar cancelled their friendship.
+Gad and Zebulun became friends.
+Benjamin and Ephraim became friends.
+Manasseh and Simeon became friends.
+Issachar and Gad cancelled their friendship.
+Issachar and Manasseh became friends.
+Judah and Joseph cancelled their friendship.
+Simeon and Judah became friends.
+Manasseh and Dan became friends.
+Manasseh and Simeon cancelled their friendship.
+Levi and Zebulun became friends.
+Reuben and Issachar became friends.
+Ephraim and Asher cancelled their friendship.
+Zebulun and Reuben became friends.
+Issachar and Naphtali cancelled their friendship.
+Naphtali and Benjamin became friends.
+Benjamin and Levi became friends.
+Simeon and Levi became friends.
+Manasseh and Benjamin became friends.
+Reuben and Naphtali became friends.
+Simeon and Judah cancelled their friendship.
+Judah and Zebulun cancelled their friendship.
+Dan and Levi became friends.
+Asher and Reuben cancelled their friendship.
+Simeon and Benjamin became friends.
+Levi and Naphtali became friends.
+Joseph and Manasseh cancelled their friendship.
+Ephraim and Levi became friends.
+Zebulun and Benjamin became friends.
+Reuben and Zebulun cancelled their friendship.
+Manasseh and Dan cancelled their friendship.
+Judah and Issachar cancelled their friendship.
+Gad and Levi became friends.
+Gad and Naphtali became friends.
+Dan and Naphtali became friends.
+Manasseh and Judah cancelled their friendship.
+Asher and Reuben became friends.
+Joseph and Dan became friends.
+Reuben and Judah became friends.
+Judah and Benjamin cancelled their friendship.
+Naphtali and Benjamin cancelled their friendship.
+Joseph and Naphtali cancelled their friendship.
+Naphtali and Zebulun became friends.
+Reuben and Levi became friends.
+Dan and Judah became friends.
+Issachar and Naphtali became friends.
+Ephraim and Asher became friends.
+Zebulun and Naphtali cancelled their friendship.
+Zebulun and Reuben became friends.
+Gad and Judah became friends.
+Levi and Asher cancelled their friendship.
+Gad and Asher became friends.
+Joseph and Ephraim cancelled their friendship.
+Gad and Dan became friends.
+Gad and Manasseh cancelled their friendship.
+Ephraim and Manasseh became friends.
+Levi and Benjamin cancelled their friendship.
+Issachar and Simeon became friends.
+Joseph and Benjamin became friends.
+Naphtali and Zebulun became friends.
+Dan and Levi cancelled their friendship.
+Joseph and Reuben became friends.
+Manasseh and Asher cancelled their friendship.
+Zebulun and Ephraim cancelled their friendship.
+Judah and Benjamin became friends.
+Simeon and Manasseh became friends.
+Naphtali and Simeon became friends.
+Judah and Gad cancelled their friendship.
+Manasseh and Ephraim cancelled their friendship.
+Simeon and Asher cancelled their friendship.
+Zebulun and Dan became friends.
+Ephraim and Judah cancelled their friendship.
+Zebulun and Asher cancelled their friendship.
+Ephraim and Reuben became friends.
+Joseph and Zebulun became friends.
+Ephraim and Issachar cancelled their friendship.
+Naphtali and Asher became friends.
+Levi and Issachar became friends.
+Reuben and Levi cancelled their friendship.
+Dan and Manasseh became friends.
+Joseph and Dan cancelled their friendship.
+Issachar and Reuben cancelled their friendship.
+Levi and Benjamin became friends.
+Dan and Naphtali cancelled their friendship.
+Asher and Dan became friends.
+Gad and Judah became friends.
+Reuben and Levi became friends.
+Asher and Reuben cancelled their friendship.
+Naphtali and Dan became friends.
+Naphtali and Simeon cancelled their friendship.
+Ephraim and Gad cancelled their friendship.
+Manasseh and Benjamin cancelled their friendship.
+Dan and Gad cancelled their friendship.
+Zebulun and Naphtali cancelled their friendship.
+Dan and Joseph became friends.
+Issachar and Naphtali cancelled their friendship.
+Benjamin and Issachar became friends.
+Reuben and Simeon became friends.
+Joseph and Reuben cancelled their friendship.
+Reuben and Naphtali cancelled their friendship.
+Asher and Gad cancelled their friendship.
+Gad and Issachar became friends.
+Zebulun and Naphtali became friends.
+Naphtali and Benjamin became friends.
+Judah and Joseph became friends.
+Gad and Naphtali cancelled their friendship.
+Reuben and Ephraim cancelled their friendship.
+Zebulun and Ephraim became friends.
+Gad and Zebulun cancelled their friendship.
+Simeon and Naphtali became friends.
+Levi and Reuben cancelled their friendship.
+Benjamin and Judah cancelled their friendship.
+Naphtali and Asher cancelled their friendship.
+Levi and Benjamin cancelled their friendship.
+Benjamin and Levi became friends.
+Naphtali and Zebulun cancelled their friendship.
+Ephraim and Gad became friends.
+Ephraim and Dan cancelled their friendship.
+Zebulun and Levi cancelled their friendship.
+Issachar and Judah became friends.
+Dan and Benjamin became friends.
+Ephraim and Manasseh became friends.
+Reuben and Levi became friends.
+Judah and Joseph cancelled their friendship.
+Manasseh and Issachar cancelled their friendship.
+Joseph and Manasseh became friends.
+Reuben and Simeon cancelled their friendship.
+Ephraim and Reuben became friends.
+Judah and Reuben cancelled their friendship.
+Reuben and Manasseh became friends.
+Dan and Levi became friends.
+Levi and Zebulun became friends.
+Benjamin and Asher cancelled their friendship.
+Ephraim and Asher cancelled their friendship.
+Issachar and Zebulun cancelled their friendship.
+Manasseh and Joseph cancelled their friendship.
+Benjamin and Joseph cancelled their friendship.
+Ephraim and Levi cancelled their friendship.
+Asher and Issachar became friends.
+Manasseh and Gad became friends.
+Manasseh and Naphtali became friends.
+Issachar and Manasseh became friends.
+Manasseh and Zebulun cancelled their friendship.
+Reuben and Levi cancelled their friendship.
+Asher and Judah became friends.
+Reuben and Ephraim cancelled their friendship.
+Benjamin and Dan cancelled their friendship.
+Naphtali and Manasseh cancelled their friendship.
+Reuben and Issachar became friends.
+Simeon and Dan cancelled their friendship.
+Manasseh and Reuben cancelled their friendship.
+Reuben and Naphtali became friends.
+Gad and Ephraim cancelled their friendship.
+Joseph and Zebulun cancelled their friendship.
+Levi and Benjamin cancelled their friendship.
+Naphtali and Issachar became friends.
+Naphtali and Reuben cancelled their friendship.
+Gad and Levi cancelled their friendship.
+Reuben and Issachar cancelled their friendship.
+Issachar and Simeon cancelled their friendship.
+Asher and Dan cancelled their friendship.
+Naphtali and Joseph became friends.
+Gad and Ephraim became friends.
+Issachar and Gad cancelled their friendship.
+Issachar and Dan cancelled their friendship.
+Simeon and Zebulun became friends.
+Issachar and Manasseh cancelled their friendship.
+Simeon and Ephraim became friends.
+Manasseh and Ephraim cancelled their friendship.
+Ephraim and Zebulun cancelled their friendship.
+Manasseh and Asher became friends.
+Joseph and Levi became friends.
+Joseph and Gad became friends.
+Joseph and Gad cancelled their friendship.
+Manasseh and Simeon cancelled their friendship.
+Reuben and Benjamin became friends.
+Gad and Ephraim cancelled their friendship.
+Benjamin and Zebulun cancelled their friendship.
+Issachar and Judah cancelled their friendship.
+Simeon and Manasseh became friends.
+Ephraim and Joseph became friends.
+Zebulun and Naphtali became friends.
+Dan and Simeon became friends.
+Naphtali and Asher became friends.
+Ephraim and Benjamin cancelled their friendship.
+Naphtali and Simeon cancelled their friendship.
+Reuben and Gad cancelled their friendship.
+Zebulun and Reuben cancelled their friendship.
+Ephraim and Benjamin became friends.
+Joseph and Simeon became friends.
+Reuben and Naphtali became friends.
+Reuben and Dan became friends.
+Reuben and Benjamin cancelled their friendship.
+Manasseh and Reuben became friends.
+Ephraim and Levi became friends.
+Levi and Zebulun cancelled their friendship.
+Benjamin and Simeon cancelled their friendship.
+Reuben and Naphtali cancelled their friendship.
+Reuben and Issachar became friends.
+Ephraim and Levi cancelled their friendship.
+Simeon and Dan cancelled their friendship.
+Benjamin and Simeon became friends.
+Benjamin and Naphtali cancelled their friendship.
+Gad and Dan became friends.
+Issachar and Levi cancelled their friendship.
+Benjamin and Simeon cancelled their friendship.
+Issachar and Levi became friends.
+Ephraim and Benjamin cancelled their friendship.
+Manasseh and Dan cancelled their friendship.
+Judah and Joseph became friends.
+Dan and Naphtali cancelled their friendship.
+Reuben and Simeon became friends.
+Reuben and Simeon cancelled their friendship.
+Simeon and Naphtali became friends.
+Asher and Joseph became friends.
+Simeon and Naphtali cancelled their friendship.
+Issachar and Simeon became friends.
+Gad and Naphtali became friends.
+Benjamin and Reuben became friends.
+Joseph and Dan cancelled their friendship.
+Levi and Dan cancelled their friendship.
+Gad and Benjamin became friends.
+Manasseh and Judah became friends.
+Asher and Zebulun became friends.
+Manasseh and Gad cancelled their friendship.
+Naphtali and Joseph cancelled their friendship.
+Gad and Judah cancelled their friendship.
+Gad and Benjamin cancelled their friendship.
+Simeon and Gad became friends.
+Issachar and Gad became friends.
+Levi and Reuben became friends.
+Zebulun and Issachar became friends.
+Reuben and Dan cancelled their friendship.
+Joseph and Issachar became friends.
+Asher and Levi became friends.
+Zebulun and Gad became friends.
+Zebulun and Joseph became friends.
+Judah and Joseph cancelled their friendship.
+Judah and Benjamin became friends.
+Simeon and Ephraim cancelled their friendship.
+Reuben and Judah became friends.
+Asher and Issachar cancelled their friendship.
+Naphtali and Simeon became friends.
+Joseph and Ephraim cancelled their friendship.
+Issachar and Reuben cancelled their friendship.
+Manasseh and Dan became friends.
+Dan and Asher became friends.
+Judah and Ephraim became friends.
+Levi and Naphtali cancelled their friendship.
+Dan and Asher cancelled their friendship.
+Asher and Naphtali cancelled their friendship.
+Issachar and Naphtali cancelled their friendship.
+Joseph and Manasseh became friends.
+Dan and Naphtali became friends.
+Issachar and Levi cancelled their friendship.
+Zebulun and Naphtali cancelled their friendship.
+Issachar and Simeon cancelled their friendship.
+Zebulun and Dan cancelled their friendship.
+Gad and Naphtali cancelled their friendship.
+Gad and Zebulun cancelled their friendship.
+Dan and Zebulun became friends.
+Reuben and Dan became friends.
+Joseph and Reuben became friends.
+Issachar and Reuben became friends.
+Gad and Ephraim became friends.
+Reuben and Asher became friends.
+Reuben and Ephraim became friends.
+Zebulun and Joseph cancelled their friendship.
+Zebulun and Reuben became friends.
+Reuben and Issachar cancelled their friendship.
+Benjamin and Ephraim became friends.
+Zebulun and Joseph became friends.
+Judah and Joseph became friends.
+Dan and Simeon became friends.
+Gad and Dan cancelled their friendship.
+Levi and Naphtali became friends.
+Ephraim and Gad cancelled their friendship.
+Gad and Zebulun became friends.
+Asher and Simeon became friends.
+Ephraim and Gad became friends.
+Manasseh and Naphtali became friends.
+Manasseh and Naphtali cancelled their friendship.
+Judah and Levi became friends.
+Benjamin and Issachar cancelled their friendship.
+Reuben and Naphtali became friends.
+Judah and Simeon became friends.
+Levi and Reuben cancelled their friendship.
+Issachar and Levi became friends.
+Zebulun and Asher cancelled their friendship.
+Judah and Ephraim cancelled their friendship.
+Dan and Gad became friends.
+Issachar and Asher became friends.
+Issachar and Gad cancelled their friendship.
+Zebulun and Judah became friends.
+Judah and Reuben cancelled their friendship.
+Levi and Reuben became friends.
+Zebulun and Simeon cancelled their friendship.
+Manasseh and Zebulun became friends.
+Benjamin and Naphtali became friends.
+Ephraim and Gad cancelled their friendship.
+Dan and Simeon cancelled their friendship.
+Ephraim and Manasseh became friends.
+Dan and Gad cancelled their friendship.
+Dan and Reuben cancelled their friendship.
+Reuben and Naphtali cancelled their friendship.
+Levi and Asher cancelled their friendship.
+Zebulun and Joseph cancelled their friendship.
+Dan and Ephraim became friends.
+Judah and Dan cancelled their friendship.
+Zebulun and Reuben cancelled their friendship.
+Benjamin and Simeon became friends.
+Gad and Joseph became friends.
+Reuben and Manasseh cancelled their friendship.
+Benjamin and Gad became friends.
+Simeon and Joseph cancelled their friendship.
+Naphtali and Ephraim became friends.
+Gad and Simeon cancelled their friendship.
+Naphtali and Joseph became friends.
+Manasseh and Reuben became friends.
+Levi and Gad became friends.
+Simeon and Ephraim became friends.
+Benjamin and Dan became friends.
+Gad and Asher became friends.
+Judah and Asher cancelled their friendship.
+Levi and Dan became friends.
+Gad and Issachar became friends.
+Asher and Judah became friends.
+Judah and Simeon cancelled their friendship.
+Joseph and Simeon became friends.
+Joseph and Judah cancelled their friendship.
+Judah and Joseph became friends.
+Zebulun and Joseph became friends.
+Asher and Ephraim became friends.
+Simeon and Zebulun became friends.
+Simeon and Joseph cancelled their friendship.
+Naphtali and Zebulun became friends.
+Judah and Manasseh cancelled their friendship.
+Judah and Asher cancelled their friendship.
+Zebulun and Judah cancelled their friendship.
+Issachar and Dan became friends.
+Levi and Manasseh became friends.
+Asher and Dan became friends.
+Issachar and Reuben became friends.
+Simeon and Naphtali cancelled their friendship.
+Benjamin and Asher became friends.
+Simeon and Joseph became friends.
+Asher and Zebulun became friends.
+Levi and Joseph cancelled their friendship.
+Manasseh and Joseph cancelled their friendship.
+Dan and Issachar cancelled their friendship.
+Issachar and Ephraim became friends.
+Simeon and Manasseh cancelled their friendship.
+Asher and Naphtali became friends.
+Gad and Reuben became friends.
+Judah and Zebulun became friends.
+Zebulun and Gad cancelled their friendship.
+Benjamin and Gad cancelled their friendship.
+Dan and Manasseh cancelled their friendship.
+Judah and Issachar became friends.
+Zebulun and Manasseh cancelled their friendship.
+Joseph and Naphtali cancelled their friendship.
+Joseph and Benjamin became friends.
+Dan and Gad became friends.
+Joseph and Zebulun cancelled their friendship.
+Judah and Zebulun cancelled their friendship.
+Asher and Joseph cancelled their friendship.
+Levi and Reuben cancelled their friendship.
+Issachar and Reuben cancelled their friendship.
+Reuben and Judah became friends.
+Zebulun and Reuben became friends.
+Reuben and Benjamin cancelled their friendship.
+Naphtali and Ephraim cancelled their friendship.
+Judah and Gad became friends.
+Naphtali and Levi cancelled their friendship.
+Dan and Benjamin cancelled their friendship.
+Joseph and Naphtali became friends.
+Naphtali and Judah cancelled their friendship.
+Asher and Joseph became friends.
+Zebulun and Gad became friends.
+Reuben and Ephraim cancelled their friendship.
+Reuben and Simeon became friends.
+Ephraim and Asher cancelled their friendship.
+Joseph and Levi became friends.
+Dan and Manasseh became friends.
+Manasseh and Judah became friends.
+Reuben and Manasseh cancelled their friendship.
+Levi and Manasseh cancelled their friendship.
+Zebulun and Levi became friends.
+Simeon and Ephraim cancelled their friendship.
+Gad and Levi cancelled their friendship.
+Issachar and Judah cancelled their friendship.
+Manasseh and Joseph became friends.
+Reuben and Benjamin became friends.
+Reuben and Simeon cancelled their friendship.
+Dan and Levi cancelled their friendship.
+Judah and Dan became friends.
+Joseph and Naphtali cancelled their friendship.
+Judah and Gad cancelled their friendship.
+Naphtali and Dan cancelled their friendship.
+Ephraim and Asher became friends.
+Benjamin and Joseph cancelled their friendship.
+Asher and Judah became friends.
+Zebulun and Gad cancelled their friendship.
+Joseph and Naphtali became friends.
+Gad and Reuben cancelled their friendship.
+Joseph and Reuben cancelled their friendship.
+Zebulun and Issachar cancelled their friendship.
+Joseph and Dan became friends.
+Zebulun and Levi cancelled their friendship.
+Asher and Dan cancelled their friendship.
+Levi and Asher became friends.
+Dan and Benjamin became friends.
+Ephraim and Issachar cancelled their friendship.
+Joseph and Zebulun became friends.
+Dan and Ephraim cancelled their friendship.
+Ephraim and Dan became friends.
+Joseph and Reuben became friends.
+Manasseh and Asher cancelled their friendship.
+Benjamin and Naphtali cancelled their friendship.
+Issachar and Dan became friends.
+Joseph and Issachar cancelled their friendship.
+Benjamin and Reuben cancelled their friendship.
+Simeon and Reuben became friends.
+Simeon and Benjamin cancelled their friendship.
+Benjamin and Gad became friends.
+Benjamin and Manasseh became friends.
+Levi and Asher cancelled their friendship.
+Naphtali and Benjamin became friends.
+Zebulun and Levi became friends.
+Simeon and Asher cancelled their friendship.
+Manasseh and Issachar became friends.
+Joseph and Judah cancelled their friendship.
+Judah and Gad became friends.
+Benjamin and Joseph became friends.
+Benjamin and Asher cancelled their friendship.
+Asher and Benjamin became friends.
+Levi and Joseph cancelled their friendship.
+Joseph and Levi became friends.
+Zebulun and Ephraim became friends.
+Asher and Naphtali cancelled their friendship.
+Benjamin and Asher cancelled their friendship.
+Naphtali and Issachar became friends.
+Manasseh and Judah cancelled their friendship.
+Reuben and Asher cancelled their friendship.
+Benjamin and Zebulun became friends.
+Gad and Joseph cancelled their friendship.
+Judah and Ephraim became friends.
+Judah and Benjamin cancelled their friendship.
+Ephraim and Simeon became friends.
+Gad and Joseph became friends.
+Gad and Asher cancelled their friendship.
+Manasseh and Zebulun became friends.
+Benjamin and Levi became friends.
+Issachar and Benjamin became friends.
+Judah and Ephraim cancelled their friendship.
+Joseph and Issachar became friends.
+Simeon and Reuben cancelled their friendship.
+Reuben and Judah cancelled their friendship.
+Joseph and Naphtali cancelled their friendship.
+Joseph and Issachar cancelled their friendship.
+Naphtali and Ephraim became friends.
+Reuben and Gad became friends.
+Manasseh and Simeon became friends.
+Zebulun and Dan cancelled their friendship.
+Reuben and Gad cancelled their friendship.
+Asher and Reuben became friends.
+Asher and Dan became friends.
+Reuben and Levi became friends.
+Simeon and Asher became friends.
+Reuben and Ephraim became friends.
+Manasseh and Benjamin cancelled their friendship.
+Dan and Ephraim cancelled their friendship.
+Benjamin and Joseph cancelled their friendship.
+Judah and Zebulun became friends.
+Issachar and Naphtali cancelled their friendship.
+Dan and Reuben became friends.
+Gad and Issachar cancelled their friendship.
+Joseph and Reuben cancelled their friendship.
+Manasseh and Reuben became friends.
+Asher and Joseph cancelled their friendship.
+Issachar and Benjamin cancelled their friendship.
+Dan and Issachar cancelled their friendship.
+Simeon and Asher cancelled their friendship.
+Manasseh and Levi became friends.
+Judah and Zebulun cancelled their friendship.
+Levi and Ephraim became friends.
+Asher and Reuben cancelled their friendship.
+Reuben and Joseph became friends.
+Manasseh and Simeon cancelled their friendship.
+Zebulun and Gad became friends.
+Judah and Gad cancelled their friendship.
+Levi and Dan became friends.
+Zebulun and Gad cancelled their friendship.
+Manasseh and Dan cancelled their friendship.
+Manasseh and Simeon became friends.
+Naphtali and Dan became friends.
+Gad and Manasseh became friends.
+Asher and Benjamin became friends.
+Ephraim and Simeon cancelled their friendship.
+Dan and Reuben cancelled their friendship.
+Joseph and Reuben cancelled their friendship.
+Ephraim and Levi cancelled their friendship.
+Naphtali and Reuben became friends.
+Dan and Naphtali cancelled their friendship.
+Reuben and Joseph became friends.
+Zebulun and Naphtali cancelled their friendship.
+Manasseh and Simeon cancelled their friendship.
+Reuben and Dan became friends.
+Ephraim and Joseph became friends.
+Zebulun and Asher cancelled their friendship.
+Manasseh and Naphtali became friends.
+Reuben and Manasseh cancelled their friendship.
+Levi and Naphtali became friends.
+Naphtali and Simeon became friends.
+Dan and Levi cancelled their friendship.
+Issachar and Zebulun became friends.
+Reuben and Gad became friends.
+Asher and Ephraim cancelled their friendship.
+Gad and Simeon became friends.
+Reuben and Ephraim cancelled their friendship.
+Manasseh and Ephraim cancelled their friendship.
+Judah and Zebulun became friends.
+Simeon and Manasseh became friends.
+Dan and Benjamin cancelled their friendship.
+Gad and Reuben cancelled their friendship.
+Ephraim and Issachar became friends.
+Dan and Reuben cancelled their friendship.
+Naphtali and Levi cancelled their friendship.
+Asher and Levi became friends.
+Levi and Ephraim became friends.
+Issachar and Judah became friends.
+Ephraim and Issachar cancelled their friendship.
+Benjamin and Gad cancelled their friendship.
+Ephraim and Zebulun cancelled their friendship.
+Reuben and Judah became friends.
+Judah and Levi cancelled their friendship.
+Ephraim and Gad became friends.
+Ephraim and Simeon became friends.
+Asher and Reuben became friends.
+Benjamin and Reuben became friends.
+Naphtali and Manasseh cancelled their friendship.
+Benjamin and Reuben cancelled their friendship.
+Manasseh and Asher became friends.
+Reuben and Joseph cancelled their friendship.
+Simeon and Issachar became friends.
+Joseph and Zebulun cancelled their friendship.
+Naphtali and Reuben cancelled their friendship.
+Gad and Ephraim cancelled their friendship.
+Dan and Judah cancelled their friendship.
+Simeon and Asher became friends.
+Asher and Simeon cancelled their friendship.
+Naphtali and Zebulun became friends.
+Benjamin and Gad became friends.
+Judah and Naphtali became friends.
+Zebulun and Naphtali cancelled their friendship.
+Issachar and Manasseh cancelled their friendship.
+Benjamin and Ephraim cancelled their friendship.
+Naphtali and Reuben became friends.
+Issachar and Gad became friends.
+Judah and Reuben cancelled their friendship.
+Dan and Manasseh became friends.
+Benjamin and Simeon became friends.
+Ephraim and Reuben became friends.
+Zebulun and Reuben cancelled their friendship.
+Naphtali and Ephraim cancelled their friendship.
+Naphtali and Ephraim became friends.
+Zebulun and Issachar cancelled their friendship.
+Levi and Dan became friends.
+Naphtali and Issachar became friends.
+Benjamin and Judah became friends.
+Asher and Benjamin cancelled their friendship.
+Dan and Issachar became friends.
+Joseph and Issachar became friends.
+Joseph and Levi cancelled their friendship.
+Benjamin and Levi cancelled their friendship.
+Issachar and Dan cancelled their friendship.
+Issachar and Dan became friends.
+Gad and Zebulun became friends.
+Judah and Joseph became friends.
+Dan and Simeon became friends.
+Issachar and Levi cancelled their friendship.
+Gad and Naphtali became friends.
+Simeon and Zebulun cancelled their friendship.
+Zebulun and Joseph became friends.
+Judah and Asher cancelled their friendship.
+Manasseh and Dan cancelled their friendship.
+Ephraim and Joseph cancelled their friendship.
+Joseph and Dan cancelled their friendship.
+Simeon and Benjamin cancelled their friendship.
+Manasseh and Naphtali became friends.
+Dan and Asher cancelled their friendship.
+Dan and Zebulun became friends.
+Ephraim and Benjamin became friends.
+Joseph and Dan became friends.
+Ephraim and Benjamin cancelled their friendship.
+Dan and Benjamin became friends.
+Asher and Benjamin became friends.
+Benjamin and Manasseh became friends.
+Zebulun and Levi cancelled their friendship.
+Reuben and Issachar became friends.
+Zebulun and Benjamin cancelled their friendship.
+Asher and Zebulun became friends.
+Zebulun and Levi became friends.
+Zebulun and Benjamin became friends.
+Simeon and Zebulun became friends.
+Issachar and Naphtali cancelled their friendship.
+Manasseh and Reuben became friends.
+Ephraim and Manasseh became friends.
+Gad and Simeon cancelled their friendship.
+Gad and Issachar cancelled their friendship.
+Judah and Gad became friends.
+Joseph and Ephraim became friends.
+Asher and Manasseh cancelled their friendship.
+Simeon and Manasseh cancelled their friendship.
+Ephraim and Levi cancelled their friendship.
+Ephraim and Asher became friends.
+Issachar and Levi became friends.
+Zebulun and Naphtali became friends.
+Reuben and Simeon became friends.
+Naphtali and Ephraim cancelled their friendship.
+Asher and Ephraim cancelled their friendship.
+Benjamin and Simeon became friends.
+Issachar and Dan cancelled their friendship.
+Asher and Gad became friends.
+Gad and Simeon became friends.
+Manasseh and Gad cancelled their friendship.
+Zebulun and Gad cancelled their friendship.
+Levi and Asher cancelled their friendship.
+Levi and Manasseh cancelled their friendship.
+Manasseh and Levi became friends.
+Naphtali and Benjamin cancelled their friendship.
+Asher and Judah became friends.
+Judah and Simeon became friends.
+Simeon and Manasseh became friends.
+Simeon and Ephraim cancelled their friendship.
+Manasseh and Simeon cancelled their friendship.
+Asher and Reuben cancelled their friendship.
+Ephraim and Asher became friends.
+Joseph and Gad cancelled their friendship.
+Zebulun and Benjamin cancelled their friendship.
+Asher and Ephraim cancelled their friendship.
+Dan and Simeon cancelled their friendship.
+Reuben and Judah became friends.
+Manasseh and Dan became friends.
+Judah and Gad cancelled their friendship.
+Benjamin and Asher cancelled their friendship.
+Dan and Simeon became friends.
+Issachar and Judah cancelled their friendship.
+Joseph and Judah cancelled their friendship.
+Benjamin and Joseph became friends.
+Gad and Ephraim became friends.
+Simeon and Joseph cancelled their friendship.
+Naphtali and Asher became friends.
+Gad and Zebulun became friends.
+Naphtali and Ephraim became friends.
+Gad and Naphtali cancelled their friendship.
+Naphtali and Joseph became friends.
+Benjamin and Ephraim became friends.
+Gad and Dan cancelled their friendship.
+Gad and Dan became friends.
+Judah and Levi became friends.
+Benjamin and Gad cancelled their friendship.
+Simeon and Naphtali cancelled their friendship.
+Naphtali and Asher cancelled their friendship.
+Asher and Issachar cancelled their friendship.
+Zebulun and Asher cancelled their friendship.
+Gad and Dan cancelled their friendship.
+Zebulun and Simeon cancelled their friendship.
+Dan and Ephraim became friends.
+Judah and Benjamin cancelled their friendship.
+Benjamin and Issachar became friends.
+Reuben and Simeon cancelled their friendship.
+Levi and Dan cancelled their friendship.
+Simeon and Manasseh became friends.
+Naphtali and Judah cancelled their friendship.
+Reuben and Naphtali cancelled their friendship.
+Reuben and Simeon became friends.
+Issachar and Benjamin cancelled their friendship.
+Levi and Joseph became friends.
+Levi and Reuben cancelled their friendship.
+Ephraim and Manasseh cancelled their friendship.
+Reuben and Levi became friends.
+Judah and Ephraim became friends.
+Naphtali and Manasseh cancelled their friendship.
+Gad and Naphtali became friends.
+Joseph and Issachar cancelled their friendship.
+Judah and Issachar became friends.
+Zebulun and Manasseh cancelled their friendship.
+Zebulun and Issachar became friends.
+Issachar and Simeon cancelled their friendship.
+Benjamin and Joseph cancelled their friendship.
+Judah and Zebulun cancelled their friendship.
+Issachar and Zebulun cancelled their friendship.
+Naphtali and Issachar became friends.
+Zebulun and Levi cancelled their friendship.
+Asher and Simeon became friends.
+Simeon and Ephraim became friends.
+Simeon and Ephraim cancelled their friendship.
+Dan and Naphtali became friends.
+Naphtali and Asher became friends.
+Dan and Manasseh cancelled their friendship.
+Gad and Benjamin became friends.
+Reuben and Joseph became friends.
+Reuben and Naphtali became friends.
+Joseph and Gad became friends.
+Gad and Judah became friends.
+Gad and Judah cancelled their friendship.
+Judah and Zebulun became friends.
+Issachar and Benjamin became friends.
+Benjamin and Asher became friends.
+Simeon and Dan cancelled their friendship.
+Asher and Zebulun became friends.
+Benjamin and Levi became friends.
+Reuben and Ephraim cancelled their friendship.
+Manasseh and Joseph cancelled their friendship.
+Gad and Zebulun cancelled their friendship.
+Naphtali and Levi became friends.
+Naphtali and Manasseh became friends.
+Manasseh and Benjamin cancelled their friendship.
+Ephraim and Zebulun became friends.
+Asher and Joseph became friends.
+Levi and Ephraim became friends.
+Zebulun and Issachar became friends.
+Gad and Issachar became friends.
+Issachar and Ephraim became friends.
+Asher and Levi became friends.
+Gad and Judah became friends.
+Ephraim and Manasseh became friends.
+Asher and Levi cancelled their friendship.
+Reuben and Simeon cancelled their friendship.
+Gad and Zebulun became friends.
+Judah and Zebulun cancelled their friendship.
+Ephraim and Joseph cancelled their friendship.
+Naphtali and Zebulun cancelled their friendship.
+Benjamin and Ephraim cancelled their friendship.
+Dan and Zebulun cancelled their friendship.
+Levi and Asher became friends.
+Dan and Gad became friends.
+Gad and Zebulun cancelled their friendship.
+Manasseh and Gad became friends.
+Levi and Joseph cancelled their friendship.
+Joseph and Benjamin became friends.
+Naphtali and Gad cancelled their friendship.
+Asher and Ephraim became friends.
+Zebulun and Reuben became friends.
+Levi and Manasseh cancelled their friendship.
+Issachar and Ephraim cancelled their friendship.
+Naphtali and Levi cancelled their friendship.
+Reuben and Benjamin became friends.
+Simeon and Zebulun became friends.
+Gad and Naphtali became friends.
+Asher and Simeon cancelled their friendship.
+Benjamin and Gad cancelled their friendship.
+Reuben and Naphtali cancelled their friendship.
+Joseph and Dan cancelled their friendship.
+Judah and Benjamin became friends.
+Reuben and Ephraim became friends.
+Asher and Levi cancelled their friendship.
+Judah and Issachar cancelled their friendship.
+Judah and Manasseh became friends.
+Judah and Naphtali became friends.
+Asher and Dan became friends.
+Manasseh and Judah cancelled their friendship.
+Simeon and Levi cancelled their friendship.
+Issachar and Asher became friends.
+Reuben and Benjamin cancelled their friendship.
+Gad and Dan cancelled their friendship.
+Joseph and Reuben cancelled their friendship.
+Gad and Zebulun became friends.
+Benjamin and Joseph cancelled their friendship.
+Ephraim and Simeon became friends.
+Gad and Reuben became friends.
+Judah and Naphtali cancelled their friendship.
+Dan and Naphtali cancelled their friendship.
+Manasseh and Levi became friends.
+Manasseh and Asher became friends.
+Dan and Asher cancelled their friendship.
+Levi and Gad became friends.
+Reuben and Ephraim cancelled their friendship.
+Benjamin and Issachar cancelled their friendship.
+Naphtali and Manasseh cancelled their friendship.
+Reuben and Asher became friends.
+Asher and Ephraim cancelled their friendship.
+Issachar and Gad cancelled their friendship.
+Asher and Joseph cancelled their friendship.
+Dan and Asher became friends.
+Zebulun and Benjamin became friends.
+Zebulun and Benjamin cancelled their friendship.
+Naphtali and Issachar cancelled their friendship.
+Joseph and Dan became friends.
+Judah and Benjamin cancelled their friendship.
+Dan and Benjamin cancelled their friendship.
+Manasseh and Judah became friends.
+Manasseh and Benjamin became friends.
+Judah and Zebulun became friends.
+Joseph and Simeon became friends.
+Manasseh and Dan became friends.
+Zebulun and Benjamin became friends.
+Reuben and Issachar cancelled their friendship.
+Dan and Simeon became friends.
+Zebulun and Benjamin cancelled their friendship.
+Asher and Dan cancelled their friendship.
+Gad and Naphtali cancelled their friendship.
+Asher and Naphtali cancelled their friendship.
+Simeon and Benjamin cancelled their friendship.
+Benjamin and Levi cancelled their friendship.
+Judah and Gad cancelled their friendship.
+Zebulun and Reuben cancelled their friendship.
+Manasseh and Issachar became friends.
+Judah and Ephraim cancelled their friendship.
+Zebulun and Dan became friends.
+Asher and Benjamin cancelled their friendship.
+Reuben and Zebulun became friends.
+Manasseh and Zebulun became friends.
+Simeon and Issachar became friends.
+Manasseh and Naphtali became friends.
+Issachar and Judah became friends.
+Dan and Manasseh cancelled their friendship.
+Simeon and Naphtali became friends.
+Asher and Judah cancelled their friendship.
+Manasseh and Naphtali cancelled their friendship.
+Judah and Dan became friends.
+Manasseh and Ephraim cancelled their friendship.
+Benjamin and Reuben became friends.
+Joseph and Asher became friends.
+Simeon and Judah cancelled their friendship.
+Judah and Naphtali became friends.
+Gad and Benjamin became friends.
+Reuben and Zebulun cancelled their friendship.
+Manasseh and Naphtali became friends.
+Dan and Levi became friends.
+Asher and Judah became friends.
+Reuben and Judah cancelled their friendship.
+Manasseh and Naphtali cancelled their friendship.
+Ephraim and Benjamin became friends.
+Judah and Asher cancelled their friendship.
+Ephraim and Issachar became friends.
+Levi and Judah cancelled their friendship.
+Benjamin and Dan became friends.
+Ephraim and Manasseh became friends.
+Reuben and Levi cancelled their friendship.
+Asher and Levi became friends.
+Asher and Gad cancelled their friendship.
+Reuben and Manasseh cancelled their friendship.
+Simeon and Benjamin became friends.
+Benjamin and Joseph became friends.
+Gad and Judah became friends.
+Naphtali and Dan became friends.
+Naphtali and Joseph cancelled their friendship.
+Ephraim and Levi cancelled their friendship.
+Judah and Levi became friends.
+Reuben and Manasseh became friends.
+Asher and Reuben cancelled their friendship.
+Simeon and Issachar cancelled their friendship.
+Asher and Reuben became friends.
+Levi and Zebulun became friends.
+Naphtali and Benjamin became friends.
+Asher and Zebulun cancelled their friendship.
+Simeon and Gad cancelled their friendship.
+Joseph and Manasseh became friends.
+Levi and Naphtali became friends.
+Gad and Dan became friends.
+Manasseh and Ephraim cancelled their friendship.
+Dan and Issachar became friends.
+Naphtali and Issachar became friends.
+Zebulun and Asher became friends.
+Zebulun and Joseph cancelled their friendship.
+Manasseh and Levi cancelled their friendship.
+Judah and Asher became friends.
+Asher and Manasseh cancelled their friendship.
+Asher and Ephraim became friends.
+Joseph and Asher cancelled their friendship.
+Manasseh and Gad cancelled their friendship.
+Dan and Gad cancelled their friendship.
+Gad and Zebulun cancelled their friendship.
+Reuben and Joseph became friends.
+Benjamin and Gad cancelled their friendship.
+Reuben and Levi became friends.
+Simeon and Judah became friends.
+Manasseh and Reuben cancelled their friendship.
+Ephraim and Benjamin cancelled their friendship.
+Benjamin and Naphtali cancelled their friendship.
+Manasseh and Reuben became friends.
+Benjamin and Reuben cancelled their friendship.
+Issachar and Ephraim cancelled their friendship.
+Manasseh and Dan became friends.
+Manasseh and Naphtali became friends.
+Gad and Naphtali became friends.
+Dan and Issachar cancelled their friendship.
+Joseph and Zebulun became friends.
+Joseph and Reuben cancelled their friendship.
+Asher and Dan became friends.
