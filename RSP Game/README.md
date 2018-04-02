@@ -1,4 +1,4 @@
-RSP Game
+RSP Game (Rock Scissors Paper)
 -----------
 
 This game was an assignment given to us towards the end of the python section in the course. The assignment aimed at practicing several
