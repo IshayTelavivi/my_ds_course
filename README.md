@@ -9,4 +9,8 @@ Later on we had the following 3 more extensive exercises to complete:
 2. Bunny Game - this was a really cool assignment. We were assigned to create a video game with graphics, motion and sound, using the python we had learned. The folder contains a jupyter notebook with the instructions, and a py file with the code. This was my first assignment done on a professional IDE (PyCharm). In adition there are several images and sound files that are used in the code.
 3. Graphs Mini Project - a project that dealt with mathematical graphs and made use of classes. In addition it required learning of algorithms and implementing these in the code. In the folder there is a PDF with the instrucitons, a py file with the code, and a few additional data files.
 
+
+The second topic was python tools, and it focused mainly on familiarization with numpy, pandas and matplotlib libraries. In addition we explored other topics that my assist us such as web scraping, regular expression, file formats (json etc.) and others.
+
+
 The third topic of the course was Machine Learning. We started with classification and as aprt of the assignment we were assigned to create our own algorithm from scratch, to get more familiar with the algorithm and to practice our programming abilities. the file my_dt_algirithm contains my code.
