@@ -7,7 +7,7 @@ The focus of this mini project was practicing and designing mathematical graphs 
 This mini project was written in Pycharm.
 
 Files in this folder:
-* ds_professional_python_mini_project_december_2016.pdf - the assignment instructions that was provided by the college
+* ds_professional_python_mini_project_december_2016.pdf - the assignment instructions that were provided by the college
 * mini_project.py - my code
 * travelsew.csv - traval data to be used for the directional graph
 * travelswe.csv - traval data to be used for the directional graph
