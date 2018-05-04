@@ -2,7 +2,7 @@
 The purpose of the this code is to generate the K-NN classifier algorithm from scratch.
 For simplicity, I built it that it supports only "euclidean" and "manhattan" metrics, as well as an external
 function. (since I used only these metrics, It supports only numeric values)
-Bottom line - the accuracy is similar to the sklearn KNeighborsClassifier, however much slower (so I added the
+Bottom line - the performance is similar to the sklearn KNeighborsClassifier, however much slower (so I added the
 tqdm indication).
 """
 
