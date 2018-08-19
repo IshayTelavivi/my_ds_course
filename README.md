@@ -17,3 +17,4 @@ The second topic was python tools, and it focused mainly on familiarization with
 The third topic of the course was Machine Learning. We started with classification and as aprt of the assignments we were assigned to create our own algorithms for decition trees and K-NN from scratch, to get more familiar with the algorithms and to practice our programming abilities. The files my_dt_algirithm and my_knn_code contain the code for these assignments. Of course we learned and practiced clustering and regression models. The project for this phase was to complete a competition in Kaggle, my project is [here](https://github.com/IshayTelavivi/Kaggle---House-Prices-Competition).
 
 
+Fourth part of the course dealt with the following topics: Spark, NLP and Deep Learning, including introduction to each one of these topics and getting our hands dirty with several exercises. Available are two notebooks with the NLP exercices.
