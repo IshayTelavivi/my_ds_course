@@ -14,4 +14,6 @@ The second topic was python tools, and it focused mainly on familiarization with
 * The project had two parts (as specified in the giudelines pdf), the first was scraping data from the internet, processing it in several aspects and then saving the data in a csv file. The second part was to perform some descriptive analyses, and this is located in a separarte notebook.
 
 
-The third topic of the course was Machine Learning. We started with classification and as aprt of the assignments we were assigned to create our own algorithms for decition trees and K-NN from scratch, to get more familiar with the algorithms and to practice our programming abilities. The files my_dt_algirithm and my_knn_code contain the code for these assignments.
+The third topic of the course was Machine Learning. We started with classification and as aprt of the assignments we were assigned to create our own algorithms for decition trees and K-NN from scratch, to get more familiar with the algorithms and to practice our programming abilities. The files my_dt_algirithm and my_knn_code contain the code for these assignments. Of course we learned and practiced clustering and regression models. The project for this phase was to complete a competition in Kaggle, my project is [here](https://github.com/IshayTelavivi/Kaggle---House-Prices-Competition).
+
+
